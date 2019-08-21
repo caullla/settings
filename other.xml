@@ -1,0 +1,83 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="10.14.1" last-modified="1543508427000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.70259863" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="NO&#10;NodeJS Remote Interpreter&#10;nodejs&#10;nod&#10;docker" />
+    <property name="KEYMAP" value="next ta&#10;pre&#10;comme&#10;comment&#10;close" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="MoveFile.OpenInEditor" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SettingsSearchHistory" value="python inter&#10;inter&#10;pytho&#10;project&#10;root" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="Node&#10;NodeJS Remote Interpreter&#10;docker&#10;ace" />
+    <property name="Vcs.Log.Text.Filter.History" value="4a18169&#10;26ef6ee5ef0dee3296d35942e948e0208f3dd686&#10;26ef6ee Hub Backend v1.16.1 @ruxkor ruxkor released this 29 days ago · 10 commits to develop since this release&#10;off&#10;3139915" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.docker.view.DockerViewContribution.0" value="500" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/customization.patch&#10;/home/cl/patchs&#10;/home/cl/envs/customization/bin/python&#10;/home/cl/envs/customization/bin/python3&#10;/home/cl/envs/customization&#10;/home/cl/projects/Hub-Customization&#10;/home/cl/projects/Hub-Portal&#10;/home/cl/projects/Hub-Portal/django/customization&#10;/home/cl/patchs/-_bug_fix_-_add_auto_login.patch&#10;/home/cl/patchs/add_footer.patch&#10;/home/cl/projects/simple-websocket-server/SimpleWebSocketServer&#10;/home/cl/projects/cws_react&#10;/home/cl/projects/cws_django&#10;/home/cl/patchs/check_if_request_origin_are_present_in_oauth_clients_redirect_urls.patch&#10;/home/cl/projects/Hub-Backend&#10;/home/cl/projects/datarobot&#10;/home/cl/envs/dashboard/bin/python&#10;/home/cl/projects/dashboard&#10;/home/cl/patchs/offline_config.patch&#10;/home/cl/projects/Hub-Backend/src&#10;/home/cl/patchs/search_page_search_bar_design_implementation_add_tests_add__jest_restoreAllMocks()__before1.patch&#10;/home/cl/projects/search_page_search_bar_design_implementation_add_tests_add__jest_restoreAllMocks()__before.patch&#10;/home/cl/projects/add_application_detail_page_.patch&#10;/home/cl/projects/add_tests.patch&#10;/home/cl/projects/hub-portal/add_application_detail_page_.patch&#10;/home/cl/projects/hub-portal&#10;/home/cl/projects/hub-portal/node_modules&#10;/home/cl/projects/hub-frontend&#10;/home/cl/projects/Hub-Frontend&#10;/home/cl/projects/fake_applications" />
+    <property name="file.gist.reindex.count" value="267340" />
+    <property name="fileTypeChangedCounter" value="14" />
+    <property name="lastTip" value="6" />
+    <property name="selected.color.option.type" value="DOCKER_COMMENTS" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Imports" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/envs/dashboard/bin/python" value="false" />
+        <entry key="$USER_HOME$/envs/multiform/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/projects/Hub-Backend/src/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
+        <entry key="docker-compose://[/home/cl/projects/Hub-Backend/docker-compose.yml, /home/cl/projects/Hub-Backend/docker-compose.override.yml]:web/python" value="false" />
+        <entry key="docker-compose://[/home/cl/projects/Hub-Customization/docker-compose.yaml]:django/python" value="false" />
+        <entry key="docker-compose://[/home/cl/projects/Hub-Customization/docker-compose.yaml]:django/python3.7" value="false" />
+        <entry key="docker-compose://[/home/cl/projects/Hub-Portal/docker-compose.yaml]:django/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/envs/dashboard/bin/python" value="false" />
+        <entry key="$USER_HOME$/envs/multiform/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/projects/Hub-Backend/src/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
+        <entry key="docker-compose://[/home/cl/projects/Hub-Backend/docker-compose.yml, /home/cl/projects/Hub-Backend/docker-compose.override.yml]:web/python" value="false" />
+        <entry key="docker-compose://[/home/cl/projects/Hub-Customization/docker-compose.yaml]:django/python" value="false" />
+        <entry key="docker-compose://[/home/cl/projects/Hub-Customization/docker-compose.yaml]:django/python3.7" value="false" />
+        <entry key="docker-compose://[/home/cl/projects/Hub-Portal/docker-compose.yaml]:django/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/envs/dashboard/bin/python" value="false" />
+        <entry key="$USER_HOME$/envs/multiform/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/projects/Hub-Backend/src/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
+        <entry key="docker-compose://[/home/cl/projects/Hub-Backend/docker-compose.yml, /home/cl/projects/Hub-Backend/docker-compose.override.yml]:web/python" value="true" />
+        <entry key="docker-compose://[/home/cl/projects/Hub-Customization/docker-compose.yaml]:django/python" value="false" />
+        <entry key="docker-compose://[/home/cl/projects/Hub-Customization/docker-compose.yaml]:django/python3.7" value="false" />
+        <entry key="docker-compose://[/home/cl/projects/Hub-Portal/docker-compose.yaml]:django/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

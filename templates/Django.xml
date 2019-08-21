@@ -1,0 +1,12 @@
+<templateSet group="Django">
+  <template name="pdb" value="from pdb import set_trace; set_trace()" description="from pdb import set_trace; set_trace()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="ipdb" value="from ipdb import set_trace; set_trace()" description="ipd" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
