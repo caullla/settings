@@ -10,11 +10,13 @@
       <mapping pattern="import_live_db" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="local_location" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="de" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
-      <mapping ext="de" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
