@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="CommentByLineComment">
+        <abbreviation name="Windows+/" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
