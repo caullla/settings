@@ -3,14 +3,14 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="css" type="PLAIN_TEXT" />
-      <mapping pattern="wireguard" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="wireguard" type="PLAIN_TEXT" />
       <mapping pattern="import_live_db" type="PLAIN_TEXT" />
       <mapping ext="local_location" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
@@ -18,6 +18,7 @@
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="yamll" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
@@ -26,7 +27,6 @@
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="com_location" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="de" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
