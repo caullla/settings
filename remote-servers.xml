@@ -23,5 +23,10 @@
         <option name="machine" value="minikube" />
       </configuration>
     </remote-server>
+    <remote-server name="Docker5" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://minikube:2375" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
