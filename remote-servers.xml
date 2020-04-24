@@ -28,5 +28,11 @@
         <option name="apiUrl" value="tcp://minikube:2375" />
       </configuration>
     </remote-server>
+    <remote-server name="minikube" type="docker">
+      <configuration>
+        <option name="apiUrl" value="https://172.17.0.3:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.minikube/certs" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
