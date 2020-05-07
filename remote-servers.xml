@@ -1,0 +1,38 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker2" type="docker">
+      <configuration>
+        <option name="apiUrl" value="minikube" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker3" type="docker">
+      <configuration>
+        <option name="apiUrl" value="minikube" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker4" type="docker">
+      <configuration>
+        <option name="apiUrl" value="https://172.17.0.3:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/minikube" />
+        <option name="machine" value="minikube" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker5" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://minikube:2375" />
+      </configuration>
+    </remote-server>
+    <remote-server name="minikube" type="docker">
+      <configuration>
+        <option name="apiUrl" value="https://172.17.0.3:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.minikube/certs" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
