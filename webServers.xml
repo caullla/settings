@@ -13,6 +13,9 @@
       <webServer id="f4a97930-2648-49db-89a7-909b3b7d3850" name="pi@192.168.2.113:22" url="http:///">
         <fileTransfer accessType="SFTP" host="192.168.2.113" port="22" sshConfigId="e43f3801-1341-4cb8-a4de-cc537e5274fc" sshConfig="pi@192.168.2.113:22 agent" authAgent="true" />
       </webServer>
+      <webServer id="728d245e-a3cf-45de-88e5-a4b27b624962" name="pi@192.168.2.113:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="192.168.2.113" port="22" sshConfigId="e43f3801-1341-4cb8-a4de-cc537e5274fc" sshConfig="pi@192.168.2.113:22 agent" authAgent="true" />
+      </webServer>
     </option>
   </component>
 </application>
