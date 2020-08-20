@@ -4,6 +4,15 @@
       <webServer id="9d179d9c-e165-4c09-8c3c-37c12738b6c3" name="pi@192.168.2.113:22" url="http:///">
         <fileTransfer accessType="SFTP" host="192.168.2.113" port="22" sshConfigId="e43f3801-1341-4cb8-a4de-cc537e5274fc" sshConfig="pi@192.168.2.113:22 agent" authAgent="true" />
       </webServer>
+      <webServer id="5e8e7395-893b-4f96-9dff-595fdfe6f83a" name="pi@192.168.2.113:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="192.168.2.113" port="22" sshConfigId="e43f3801-1341-4cb8-a4de-cc537e5274fc" sshConfig="pi@192.168.2.113:22 agent" authAgent="true" />
+      </webServer>
+      <webServer id="27f60460-f649-493f-b77c-69f88197f018" name="pi@192.168.2.113:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="192.168.2.113" port="22" sshConfigId="e43f3801-1341-4cb8-a4de-cc537e5274fc" sshConfig="pi@192.168.2.113:22 agent" authAgent="true" />
+      </webServer>
+      <webServer id="f4a97930-2648-49db-89a7-909b3b7d3850" name="pi@192.168.2.113:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="192.168.2.113" port="22" sshConfigId="e43f3801-1341-4cb8-a4de-cc537e5274fc" sshConfig="pi@192.168.2.113:22 agent" authAgent="true" />
+      </webServer>
     </option>
   </component>
 </application>
