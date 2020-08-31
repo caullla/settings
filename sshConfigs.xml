@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="192.168.2.113" id="e43f3801-1341-4cb8-a4de-cc537e5274fc" port="22" nameFormat="DESCRIPTIVE" username="pi" />
+      <sshConfig authType="OPEN_SSH" host="192.168.2.120" id="e43f3801-1341-4cb8-a4de-cc537e5274fc" port="22" nameFormat="DESCRIPTIVE" username="pi" />
     </configs>
   </component>
 </application>
