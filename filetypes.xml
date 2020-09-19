@@ -20,6 +20,7 @@
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="com_location" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
