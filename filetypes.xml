@@ -9,6 +9,7 @@
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="import_live_db" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="asdas" type="PLAIN_TEXT" />
       <mapping pattern="wireguard" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="css" type="PLAIN_TEXT" />
