@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping pattern="gitignore" type="AUTO_DETECTED" />
       <mapping pattern=".gitignore" type="AUTO_DETECTED" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
