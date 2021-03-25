@@ -3,6 +3,8 @@
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="gitignore" type="AUTO_DETECTED" />
+      <mapping pattern="ca_bundle" type="AUTO_DETECTED" />
+      <mapping pattern="cert" type="AUTO_DETECTED" />
       <mapping pattern=".gitignore" type="AUTO_DETECTED" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
