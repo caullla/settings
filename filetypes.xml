@@ -6,13 +6,13 @@
       <mapping pattern="ca_bundle" type="AUTO_DETECTED" />
       <mapping pattern="cert" type="AUTO_DETECTED" />
       <mapping pattern=".gitignore" type="AUTO_DETECTED" />
-      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
-      <mapping pattern="import_live_db" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="import_live_db" type="PLAIN_TEXT" />
       <mapping pattern="asdas" type="PLAIN_TEXT" />
       <mapping pattern="wireguard" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
