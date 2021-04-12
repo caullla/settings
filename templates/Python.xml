@@ -1,5 +1,5 @@
 <templateSet group="Python">
-  <template name="debugger" value="from core.management.debugger_connection import connect_to_debugger; connect_to_debugger()" description="debugger" toReformat="false" toShortenFQNames="true">
+  <template name="debugger" value="import pydevd_pycharm; pydevd_pycharm.settrace('192.168.1.105', port=3333, stdoutToServer=True, stderrToServer=True)" description="debugger" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
