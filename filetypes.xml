@@ -37,6 +37,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="yamll" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
+      <mapping ext="ts " type="TypeScript" />
     </extensionMap>
   </component>
 </application>
