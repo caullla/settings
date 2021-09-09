@@ -1,23 +1,23 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
-      <mapping pattern="gitignore" type="AUTO_DETECTED" />
-      <mapping pattern="ca_bundle" type="AUTO_DETECTED" />
       <mapping pattern="cert" type="AUTO_DETECTED" />
+      <mapping pattern="ca_bundle" type="AUTO_DETECTED" />
       <mapping pattern=".gitignore" type="AUTO_DETECTED" />
+      <mapping pattern="gitignore" type="AUTO_DETECTED" />
+      <mapping pattern="css" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="input" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="import_live_db" type="PLAIN_TEXT" />
       <mapping pattern="asdas" type="PLAIN_TEXT" />
       <mapping pattern="wireguard" type="PLAIN_TEXT" />
-      <mapping pattern="asd" type="PLAIN_TEXT" />
-      <mapping pattern="css" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="import_live_db" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="local_location" type="PLAIN_TEXT" />
@@ -38,6 +38,7 @@
       <mapping ext="yamll" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="ts " type="TypeScript" />
+      <removed_mapping pattern=".gitignore" approved="true" type="GitIgnore file" />
     </extensionMap>
   </component>
 </application>
