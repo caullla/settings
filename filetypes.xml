@@ -5,6 +5,7 @@
       <mapping pattern="cert" type="AUTO_DETECTED" />
       <mapping pattern="ca_bundle" type="AUTO_DETECTED" />
       <mapping pattern="gitignore" type="AUTO_DETECTED" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="css" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
@@ -38,6 +39,7 @@
       <mapping ext="yamll" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="ts " type="TypeScript" />
+      <removed_mapping ext="graphql" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitignore" approved="true" type="GitIgnore file" />
     </extensionMap>
   </component>
