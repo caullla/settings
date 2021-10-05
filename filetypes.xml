@@ -5,7 +5,6 @@
       <mapping pattern="cert" type="AUTO_DETECTED" />
       <mapping pattern="ca_bundle" type="AUTO_DETECTED" />
       <mapping pattern="gitignore" type="AUTO_DETECTED" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="css" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
