@@ -37,6 +37,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="yamll" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="ts " type="TypeScript" />
       <removed_mapping ext="graphql" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitignore" approved="true" type="GitIgnore file" />
