@@ -15,6 +15,7 @@
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="import_live_db" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
