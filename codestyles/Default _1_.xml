@@ -8,7 +8,6 @@
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
-    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
